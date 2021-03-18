@@ -8,7 +8,6 @@
 
 // TODO: Window title
 
-
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int show) {
     #ifdef _DEBUG
         _onexit(_CrtDumpMemoryLeaks);    
